@@ -13,7 +13,7 @@ export const en: ToolContent = {
   },
 
   hero: {
-    h1: 'Markdown Viewer',
+    h1: 'Markdown (.md) Viewer',
     tagline:
       'Open a local .md or .markdown file and read it as rendered HTML, right in your browser. Nothing is uploaded.',
   },

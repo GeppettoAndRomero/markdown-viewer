@@ -20,7 +20,7 @@ export const es: ToolContent = {
   },
 
   hero: {
-    h1: 'Markdown Viewer',
+    h1: 'Markdown (.md) Viewer',
     tagline:
       'Abre un archivo .md o .markdown local y léelo como HTML renderizado, directamente en tu navegador. No se sube nada.',
   },

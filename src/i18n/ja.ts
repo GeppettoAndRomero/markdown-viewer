@@ -18,7 +18,7 @@ export const ja: ToolContent = {
   },
 
   hero: {
-    h1: 'Markdown Viewer',
+    h1: 'Markdown（.md）Viewer',
     tagline: 'ローカルの .md / .markdown ファイルを、ブラウザ内でそのまま整形表示します。アップロードはありません。',
   },
 

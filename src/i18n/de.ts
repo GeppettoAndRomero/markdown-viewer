@@ -20,13 +20,13 @@ export const de: ToolContent = {
   },
 
   hero: {
-    h1: 'Markdown Viewer',
+    h1: 'Markdown (.md) Viewer',
     tagline:
       'Öffne eine lokale .md- oder .markdown-Datei und lies sie als gerendertes HTML, direkt im Browser. Nichts wird hochgeladen.',
   },
 
   intro: {
-    h2: 'Eine Markdown-Datei im Browser lesen',
+    h2: 'MD-Datei (.md) im Browser öffnen',
     paras: [
       'Eine .md-Datei ist Klartext mit Markdown-Formatierung — eine README, eine Notiz, aus einem anderen Tool exportierte Dokumentation. Dieses Tool öffnet sie und zeigt das gerenderte Ergebnis: Überschriften, Listen, Links, Tabellen und Codeblöcke, so formatiert wie es ein Markdown-fähiger Editor oder ein Git-Hoster anzeigen würde. Die Datei wird auf deinem Gerät gelesen; sie wird nirgendwohin gesendet.',
       'Das Parsing übernimmt markdown-it, konfiguriert so, dass rohes HTML aus der Quelle niemals unverändert an die Seite weitergereicht wird. Das gerenderte Ergebnis wird danach noch einmal unabhängig mit DOMPurify bereinigt, bevor es angezeigt wird — zwei getrennte Schutzschichten gegen eine Datei, die versucht, Skript-Code in deinem Browser auszuführen.',

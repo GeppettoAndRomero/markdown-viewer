@@ -18,7 +18,7 @@ export const zh: ToolContent = {
   },
 
   hero: {
-    h1: 'Markdown Viewer',
+    h1: 'Markdown (.md) Viewer',
     tagline: '在浏览器中直接打开本地的 .md / .markdown 文件，以渲染后的效果阅读。不会上传。',
   },
 
